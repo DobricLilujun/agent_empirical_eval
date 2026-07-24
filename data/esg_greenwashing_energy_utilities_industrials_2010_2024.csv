@@ -1,0 +1,451 @@
+year,company,ticker,sector,country,revenue_usd_bn,scope1_emissions_mt_co2e,scope2_emissions_mt_co2e,scope3_emissions_mt_co2e,total_s1_s2_mt_co2e,yoy_scope1_change_pct,carbon_intensity_tco2e_per_musd,esg_score_0_100,cdp_climate_score,net_zero_target_set,sbti_committed,emissions_disclosed,third_party_verified,greenwashing_flag
+2010,ExxonMobil,XOM,Energy,USA,393.8,119.31,9.45,1123.35,128.76,,0.3,27.7,D,No,No,Yes,Yes,0
+2011,ExxonMobil,XOM,Energy,USA,390.7,111.91,8.56,976.85,120.47,-6.2,0.29,31.5,C,No,No,No,No,0
+2012,ExxonMobil,XOM,Energy,USA,373.3,119.87,9.73,1210.04,129.6,7.11,0.32,30.9,C,No,No,No,No,0
+2013,ExxonMobil,XOM,Energy,USA,396.5,110.06,8.76,1020.99,118.82,-8.18,0.28,32.3,B,No,No,Yes,Yes,0
+2014,ExxonMobil,XOM,Energy,USA,381.1,115.06,10.49,1021.43,125.55,4.54,0.3,33.1,B-,No,No,No,No,0
+2015,ExxonMobil,XOM,Energy,USA,397.6,121.85,9.77,1181.03,131.62,5.9,0.31,33.9,B-,No,No,No,No,0
+2016,ExxonMobil,XOM,Energy,USA,401.9,114.05,9.53,1020.77,123.58,-6.4,0.28,29.7,B-,Yes,No,Yes,No,0
+2017,ExxonMobil,XOM,Energy,USA,425.6,108.55,8.83,947.82,117.38,-4.82,0.26,35.1,B-,Yes,No,Yes,No,0
+2018,ExxonMobil,XOM,Energy,USA,422.2,111.17,8.69,970.9,119.86,2.41,0.26,39.1,B,Yes,No,Yes,No,0
+2019,ExxonMobil,XOM,Energy,USA,422.8,109.05,8.78,933.1,117.83,-1.91,0.26,33.7,B-,Yes,No,Yes,Yes,0
+2020,ExxonMobil,XOM,Energy,USA,423.8,112.55,8.93,1036.95,121.48,3.21,0.27,37.2,B,Yes,No,Yes,Yes,0
+2021,ExxonMobil,XOM,Energy,USA,452.3,102.42,8.32,1037.13,110.74,-9.0,0.23,37.8,A-,Yes,Yes,Yes,Yes,0
+2022,ExxonMobil,XOM,Energy,USA,412.7,106.88,8.28,1148.73,115.16,4.35,0.26,40.1,A-,Yes,Yes,Yes,No,0
+2023,ExxonMobil,XOM,Energy,USA,418.8,109.52,9.22,1091.01,118.74,2.47,0.26,40.7,A-,Yes,Yes,Yes,Yes,0
+2024,ExxonMobil,XOM,Energy,USA,453.7,103.02,8.41,968.1,111.43,-5.93,0.23,42.5,A-,Yes,Yes,Yes,No,0
+2010,Chevron,CVX,Energy,USA,195.8,66.64,5.11,636.24,71.75,,0.34,30.4,D,No,No,No,No,0
+2011,Chevron,CVX,Energy,USA,205.9,63.61,4.92,627.14,68.53,-4.55,0.31,33.4,C,No,No,Yes,No,0
+2012,Chevron,CVX,Energy,USA,192.7,66.63,5.51,648.65,72.14,4.75,0.35,30.0,C,No,No,Yes,No,0
+2013,Chevron,CVX,Energy,USA,217.8,60.79,4.77,598.29,65.56,-8.76,0.28,32.7,B-,No,No,No,No,0
+2014,Chevron,CVX,Energy,USA,205.9,69.32,5.75,674.74,75.07,14.03,0.34,38.0,B-,No,No,Yes,No,0
+2015,Chevron,CVX,Energy,USA,203.8,66.13,5.26,645.59,71.39,-4.6,0.32,31.8,B-,No,No,No,Yes,0
+2016,Chevron,CVX,Energy,USA,194.3,60.65,4.7,549.22,65.35,-8.29,0.31,35.4,B-,Yes,No,Yes,Yes,0
+2017,Chevron,CVX,Energy,USA,215.9,65.48,4.84,615.83,70.32,7.96,0.3,39.6,B-,Yes,No,Yes,No,0
+2018,Chevron,CVX,Energy,USA,219.6,67.8,5.87,559.41,73.67,3.54,0.31,38.3,B,Yes,No,No,No,0
+2019,Chevron,CVX,Energy,USA,222.8,67.01,4.74,718.77,71.75,-1.17,0.3,35.4,B,Yes,No,No,No,0
+2020,Chevron,CVX,Energy,USA,217.8,69.88,5.74,609.96,75.62,4.28,0.32,41.9,B,Yes,No,Yes,Yes,0
+2021,Chevron,CVX,Energy,USA,224.3,67.53,5.35,665.11,72.88,-3.36,0.3,40.6,A-,Yes,No,Yes,Yes,0
+2022,Chevron,CVX,Energy,USA,228.5,63.74,4.89,588.34,68.63,-5.61,0.28,40.1,A-,Yes,Yes,Yes,Yes,0
+2023,Chevron,CVX,Energy,USA,223.7,61.79,5.47,579.51,67.26,-3.06,0.28,40.3,A-,Yes,Yes,Yes,Yes,0
+2024,Chevron,CVX,Energy,USA,231.9,65.82,5.26,624.87,71.08,6.52,0.28,44.0,A-,Yes,Yes,Yes,No,0
+2010,Shell,SHEL,Energy,GBR,358.1,83.32,6.91,753.15,90.23,,0.23,43.4,C,No,No,No,Yes,0
+2011,Shell,SHEL,Energy,GBR,377.7,73.81,5.48,741.69,79.29,-11.41,0.2,46.1,B-,No,No,Yes,No,0
+2012,Shell,SHEL,Energy,GBR,371.2,80.66,7.32,746.72,87.98,9.28,0.22,44.4,C,No,No,No,No,0
+2013,Shell,SHEL,Energy,GBR,382.7,81.68,6.45,703.73,88.13,1.26,0.21,43.4,B,No,No,No,No,0
+2014,Shell,SHEL,Energy,GBR,381.2,72.77,5.62,731.41,78.39,-10.91,0.19,46.6,B,No,No,Yes,No,0
+2015,Shell,SHEL,Energy,GBR,348.6,75.66,5.84,738.53,81.5,3.97,0.22,50.1,B,No,No,Yes,No,1
+2016,Shell,SHEL,Energy,GBR,391.5,76.12,5.37,639.31,81.49,0.61,0.19,46.6,B,Yes,No,Yes,Yes,0
+2017,Shell,SHEL,Energy,GBR,378.5,69.43,5.38,665.2,74.81,-8.79,0.18,50.1,B,Yes,No,Yes,Yes,0
+2018,Shell,SHEL,Energy,GBR,400.6,67.09,5.85,575.61,72.94,-3.37,0.17,52.4,A-,Yes,No,Yes,No,0
+2019,Shell,SHEL,Energy,GBR,393.7,66.23,5.5,618.73,71.73,-1.28,0.17,52.9,A-,Yes,No,Yes,Yes,0
+2020,Shell,SHEL,Energy,GBR,385.2,70.54,6.06,695.15,76.6,6.51,0.18,55.7,A-,Yes,No,Yes,Yes,1
+2021,Shell,SHEL,Energy,GBR,421.2,65.99,5.53,572.02,71.52,-6.45,0.16,59.2,A-,Yes,Yes,Yes,No,0
+2022,Shell,SHEL,Energy,GBR,369.2,68.01,5.33,684.55,73.34,3.06,0.18,53.4,A-,Yes,No,Yes,Yes,1
+2023,Shell,SHEL,Energy,GBR,401.4,64.93,5.26,598.47,70.19,-4.53,0.16,56.6,A-,Yes,Yes,Yes,No,0
+2024,Shell,SHEL,Energy,GBR,396.9,65.0,4.87,616.34,69.87,0.11,0.16,59.6,A-,Yes,Yes,Yes,Yes,1
+2010,BP,BP,Energy,GBR,295.8,74.59,5.86,663.34,80.45,,0.25,38.9,C,No,No,Yes,Yes,0
+2011,BP,BP,Energy,GBR,304.2,74.04,6.09,610.42,80.13,-0.74,0.24,42.0,B-,No,No,Yes,No,0
+2012,BP,BP,Energy,GBR,300.2,73.91,5.94,710.71,79.85,-0.18,0.25,42.5,B-,No,No,No,No,0
+2013,BP,BP,Energy,GBR,314.5,67.64,5.48,649.27,73.12,-8.48,0.22,46.3,B,No,No,Yes,Yes,0
+2014,BP,BP,Energy,GBR,313.3,68.09,5.61,645.86,73.7,0.67,0.22,42.9,B,No,No,No,Yes,0
+2015,BP,BP,Energy,GBR,282.3,65.17,4.92,611.63,70.09,-4.29,0.23,47.4,B,No,No,Yes,Yes,0
+2016,BP,BP,Energy,GBR,309.6,68.29,5.52,729.52,73.81,4.79,0.22,46.3,B-,Yes,No,Yes,No,0
+2017,BP,BP,Energy,GBR,310.2,61.78,4.42,595.28,66.2,-9.53,0.2,50.7,B,Yes,No,No,Yes,0
+2018,BP,BP,Energy,GBR,305.3,65.8,5.34,632.01,71.14,6.51,0.22,51.9,B,Yes,No,No,No,1
+2019,BP,BP,Energy,GBR,319.8,66.72,5.47,561.47,72.19,1.4,0.21,53.7,A-,Yes,No,Yes,No,0
+2020,BP,BP,Energy,GBR,339.3,60.62,4.77,540.25,65.39,-9.14,0.18,52.8,A-,Yes,No,Yes,No,0
+2021,BP,BP,Energy,GBR,329.5,57.79,4.55,564.91,62.34,-4.67,0.18,55.5,A-,Yes,No,Yes,No,0
+2022,BP,BP,Energy,GBR,303.9,55.69,4.47,553.85,60.16,-3.63,0.18,56.0,A-,Yes,No,Yes,No,0
+2023,BP,BP,Energy,GBR,319.1,57.19,5.09,575.54,62.28,2.69,0.18,56.3,A-,Yes,No,Yes,No,1
+2024,BP,BP,Energy,GBR,316.1,55.98,4.57,500.47,60.55,-2.12,0.18,62.1,A-,Yes,Yes,Yes,Yes,0
+2010,TotalEnergies,TTE,Energy,FRA,231.0,61.4,5.33,552.67,66.73,,0.27,50.1,C,No,No,No,No,0
+2011,TotalEnergies,TTE,Energy,FRA,219.8,58.41,5.0,566.98,63.41,-4.87,0.27,49.3,B-,No,No,No,Yes,0
+2012,TotalEnergies,TTE,Energy,FRA,250.2,52.19,4.3,463.62,56.49,-10.65,0.21,50.7,B-,No,No,No,Yes,0
+2013,TotalEnergies,TTE,Energy,FRA,268.8,53.74,4.63,534.57,58.37,2.97,0.2,51.2,B,No,No,No,No,1
+2014,TotalEnergies,TTE,Energy,FRA,250.6,60.37,4.98,561.55,65.35,12.34,0.24,57.5,B,No,No,Yes,No,1
+2015,TotalEnergies,TTE,Energy,FRA,243.4,57.84,4.82,587.75,62.66,-4.19,0.24,59.0,B,No,No,Yes,No,0
+2016,TotalEnergies,TTE,Energy,FRA,264.5,53.35,4.06,506.78,57.41,-7.76,0.2,59.6,B-,Yes,No,No,No,0
+2017,TotalEnergies,TTE,Energy,FRA,241.1,56.04,4.43,586.75,60.47,5.04,0.23,57.5,B,Yes,No,Yes,Yes,1
+2018,TotalEnergies,TTE,Energy,FRA,235.1,50.89,3.82,473.15,54.71,-9.19,0.22,63.5,A-,Yes,No,Yes,Yes,0
+2019,TotalEnergies,TTE,Energy,FRA,225.5,49.92,4.05,492.28,53.97,-1.91,0.22,62.2,B,Yes,No,Yes,No,0
+2020,TotalEnergies,TTE,Energy,FRA,273.9,55.62,4.9,598.21,60.52,11.42,0.2,67.0,B,Yes,No,Yes,Yes,1
+2021,TotalEnergies,TTE,Energy,FRA,266.2,48.36,3.72,416.39,52.08,-13.05,0.18,62.2,A-,Yes,No,Yes,Yes,0
+2022,TotalEnergies,TTE,Energy,FRA,260.7,51.55,4.01,471.7,55.56,6.6,0.2,69.6,A-,Yes,No,Yes,No,1
+2023,TotalEnergies,TTE,Energy,FRA,255.6,48.81,3.9,442.23,52.71,-5.32,0.19,70.0,A-,Yes,Yes,No,No,0
+2024,TotalEnergies,TTE,Energy,FRA,260.4,47.68,3.55,486.79,51.23,-2.32,0.18,70.0,A-,Yes,Yes,Yes,No,0
+2010,ConocoPhillips,COP,Energy,USA,49.9,26.4,2.23,269.2,28.63,,0.53,33.4,C,No,No,Yes,No,0
+2011,ConocoPhillips,COP,Energy,USA,48.9,26.08,2.14,247.71,28.22,-1.21,0.53,32.8,C,No,No,No,No,0
+2012,ConocoPhillips,COP,Energy,USA,48.8,25.29,2.02,218.4,27.31,-3.03,0.52,31.6,C,No,No,Yes,No,0
+2013,ConocoPhillips,COP,Energy,USA,49.4,25.58,2.04,223.48,27.62,1.15,0.52,34.1,B-,No,No,Yes,No,0
+2014,ConocoPhillips,COP,Energy,USA,47.8,23.91,1.74,279.46,25.65,-6.53,0.5,35.6,B-,No,No,No,Yes,0
+2015,ConocoPhillips,COP,Energy,USA,52.5,24.05,1.95,217.82,26.0,0.59,0.46,36.2,B-,No,No,No,Yes,0
+2016,ConocoPhillips,COP,Energy,USA,52.4,24.71,2.14,252.29,26.85,2.74,0.47,35.6,B-,Yes,No,No,No,0
+2017,ConocoPhillips,COP,Energy,USA,51.1,23.78,1.61,212.32,25.39,-3.76,0.47,37.8,B-,Yes,No,Yes,No,0
+2018,ConocoPhillips,COP,Energy,USA,50.7,23.69,2.1,219.76,25.79,-0.38,0.47,38.1,B,Yes,Yes,Yes,Yes,0
+2019,ConocoPhillips,COP,Energy,USA,54.5,24.6,1.86,225.3,26.46,3.84,0.45,40.7,B,Yes,Yes,Yes,Yes,0
+2020,ConocoPhillips,COP,Energy,USA,52.2,23.35,1.93,225.2,25.28,-5.08,0.45,40.0,B,Yes,No,Yes,Yes,0
+2021,ConocoPhillips,COP,Energy,USA,54.8,22.82,1.71,214.16,24.53,-2.27,0.42,40.9,A-,Yes,Yes,Yes,No,0
+2022,ConocoPhillips,COP,Energy,USA,52.0,23.82,1.78,245.59,25.6,4.38,0.46,44.0,A-,Yes,No,Yes,Yes,0
+2023,ConocoPhillips,COP,Energy,USA,57.4,22.59,1.7,217.25,24.29,-5.16,0.39,43.4,A-,Yes,Yes,Yes,Yes,0
+2024,ConocoPhillips,COP,Energy,USA,57.3,24.05,1.89,243.94,25.94,6.46,0.42,47.1,A-,Yes,Yes,Yes,No,0
+2010,Eni,ENI,Energy,ITA,130.5,48.77,4.03,413.2,52.8,,0.37,54.3,C,No,No,No,No,0
+2011,Eni,ENI,Energy,ITA,134.6,46.35,3.39,390.7,49.74,-4.96,0.34,55.8,B-,No,No,Yes,No,0
+2012,Eni,ENI,Energy,ITA,142.7,49.98,4.16,542.07,54.14,7.83,0.35,59.9,B-,No,No,No,No,1
+2013,Eni,ENI,Energy,ITA,139.6,44.02,3.42,452.43,47.44,-11.92,0.32,60.4,B,No,No,Yes,Yes,0
+2014,Eni,ENI,Energy,ITA,143.8,43.34,3.56,428.99,46.9,-1.54,0.3,61.0,B,No,No,No,Yes,0
+2015,Eni,ENI,Energy,ITA,149.6,46.55,3.67,391.2,50.22,7.41,0.31,60.7,B,No,No,Yes,No,1
+2016,Eni,ENI,Energy,ITA,148.0,45.54,3.57,388.83,49.11,-2.17,0.31,65.8,B-,Yes,No,Yes,No,0
+2017,Eni,ENI,Energy,ITA,148.0,41.13,3.35,410.39,44.48,-9.68,0.28,65.5,B,Yes,Yes,No,No,0
+2018,Eni,ENI,Energy,ITA,146.8,41.4,3.6,414.1,45.0,0.66,0.28,69.8,A-,Yes,No,Yes,Yes,1
+2019,Eni,ENI,Energy,ITA,138.7,45.04,3.6,390.51,48.64,8.79,0.32,69.0,B,Yes,No,Yes,Yes,1
+2020,Eni,ENI,Energy,ITA,134.9,37.45,2.92,376.65,40.37,-16.85,0.28,72.0,B,Yes,No,Yes,No,0
+2021,Eni,ENI,Energy,ITA,132.3,42.1,3.46,389.82,45.56,12.42,0.32,74.5,A-,Yes,No,Yes,No,1
+2022,Eni,ENI,Energy,ITA,139.0,44.27,3.63,446.47,47.9,5.15,0.32,74.5,A-,Yes,Yes,Yes,Yes,1
+2023,Eni,ENI,Energy,ITA,146.0,39.17,3.25,339.78,42.42,-11.52,0.27,73.4,A-,Yes,No,Yes,Yes,0
+2024,Eni,ENI,Energy,ITA,147.5,39.22,3.12,350.51,42.34,0.13,0.27,78.7,A-,Yes,Yes,Yes,Yes,1
+2010,Equinor,EQNR,Energy,NOR,78.2,15.5,1.33,146.15,16.83,,0.2,59.4,B-,No,No,No,No,0
+2011,Equinor,EQNR,Energy,NOR,82.7,14.8,1.07,138.92,15.87,-4.52,0.18,56.3,B,No,No,Yes,No,0
+2012,Equinor,EQNR,Energy,NOR,84.8,14.05,1.07,135.81,15.12,-5.07,0.17,62.0,B-,No,No,No,Yes,0
+2013,Equinor,EQNR,Energy,NOR,81.2,13.43,1.16,133.68,14.59,-4.41,0.17,64.8,B,No,No,Yes,No,0
+2014,Equinor,EQNR,Energy,NOR,84.1,14.11,1.01,131.72,15.12,5.06,0.17,64.4,A-,No,No,Yes,No,1
+2015,Equinor,EQNR,Energy,NOR,86.0,12.7,1.06,118.96,13.76,-9.99,0.15,68.3,B,No,No,Yes,No,0
+2016,Equinor,EQNR,Energy,NOR,88.9,12.79,0.96,99.81,13.75,0.71,0.14,70.9,B,Yes,No,Yes,No,1
+2017,Equinor,EQNR,Energy,NOR,91.1,12.32,0.86,106.02,13.18,-3.67,0.14,68.4,B,Yes,No,Yes,Yes,0
+2018,Equinor,EQNR,Energy,NOR,90.6,12.3,0.98,126.99,13.28,-0.16,0.14,72.4,A-,Yes,No,Yes,Yes,1
+2019,Equinor,EQNR,Energy,NOR,89.7,12.55,0.96,117.22,13.51,2.03,0.14,70.1,A-,Yes,Yes,Yes,Yes,1
+2020,Equinor,EQNR,Energy,NOR,86.3,11.77,0.94,109.82,12.71,-6.22,0.14,75.4,A-,Yes,No,Yes,Yes,0
+2021,Equinor,EQNR,Energy,NOR,89.5,11.86,0.93,125.4,12.79,0.76,0.13,74.9,A,Yes,Yes,Yes,No,1
+2022,Equinor,EQNR,Energy,NOR,93.0,11.73,0.96,115.05,12.69,-1.1,0.13,81.1,A,Yes,Yes,Yes,Yes,0
+2023,Equinor,EQNR,Energy,NOR,92.2,11.09,0.95,100.23,12.04,-5.46,0.12,82.5,A-,Yes,No,Yes,Yes,0
+2024,Equinor,EQNR,Energy,NOR,93.6,10.93,0.81,98.24,11.74,-1.44,0.12,81.1,A-,Yes,Yes,Yes,Yes,0
+2010,Occidental Petroleum,OXY,Energy,USA,19.3,18.23,1.47,158.38,19.7,,0.94,27.8,D,No,No,Yes,No,0
+2011,Occidental Petroleum,OXY,Energy,USA,19.4,18.85,1.47,193.64,20.32,3.4,0.97,29.2,C,No,No,Yes,No,0
+2012,Occidental Petroleum,OXY,Energy,USA,19.0,17.28,1.35,165.43,18.63,-8.33,0.91,26.1,C,No,No,Yes,Yes,0
+2013,Occidental Petroleum,OXY,Energy,USA,20.0,17.65,1.24,168.57,18.89,2.14,0.88,27.2,B-,No,No,Yes,No,0
+2014,Occidental Petroleum,OXY,Energy,USA,20.9,17.22,1.35,158.76,18.57,-2.44,0.82,26.4,C,No,No,No,No,0
+2015,Occidental Petroleum,OXY,Energy,USA,21.9,17.52,1.53,158.08,19.05,1.74,0.8,32.8,B,No,No,Yes,Yes,0
+2016,Occidental Petroleum,OXY,Energy,USA,24.4,17.01,1.46,182.23,18.47,-2.91,0.7,31.1,C,Yes,No,Yes,No,0
+2017,Occidental Petroleum,OXY,Energy,USA,23.1,16.8,1.45,157.47,18.25,-1.23,0.73,28.8,B-,Yes,No,Yes,No,0
+2018,Occidental Petroleum,OXY,Energy,USA,22.0,17.76,1.53,149.82,19.29,5.71,0.81,34.4,B,Yes,No,Yes,Yes,0
+2019,Occidental Petroleum,OXY,Energy,USA,23.8,18.04,1.6,158.05,19.64,1.58,0.76,32.6,B,Yes,No,Yes,No,0
+2020,Occidental Petroleum,OXY,Energy,USA,23.0,16.4,1.42,152.55,17.82,-9.09,0.71,33.0,B,Yes,No,Yes,Yes,0
+2021,Occidental Petroleum,OXY,Energy,USA,26.6,16.16,1.26,163.9,17.42,-1.46,0.61,33.3,A-,Yes,Yes,No,No,0
+2022,Occidental Petroleum,OXY,Energy,USA,26.6,16.7,1.46,150.84,18.16,3.34,0.63,35.3,A-,Yes,No,Yes,Yes,0
+2023,Occidental Petroleum,OXY,Energy,USA,27.3,17.64,1.29,163.88,18.93,5.63,0.65,36.8,A-,Yes,No,Yes,No,0
+2024,Occidental Petroleum,OXY,Energy,USA,26.7,16.34,1.31,165.88,17.65,-7.37,0.61,34.1,A-,Yes,Yes,Yes,No,0
+2010,Pioneer Natural Resources,PXD,Energy,USA,2.9,8.38,0.79,69.06,9.17,,2.89,25.4,D,No,No,Yes,No,0
+2011,Pioneer Natural Resources,PXD,Energy,USA,3.1,8.81,0.83,76.17,9.64,5.13,2.84,28.2,C,No,No,Yes,No,0
+2012,Pioneer Natural Resources,PXD,Energy,USA,3.3,8.82,0.72,75.39,9.54,0.11,2.67,24.0,D,No,No,Yes,Yes,0
+2013,Pioneer Natural Resources,PXD,Energy,USA,3.5,9.01,0.75,85.26,9.76,2.15,2.57,25.9,C,No,No,Yes,No,0
+2014,Pioneer Natural Resources,PXD,Energy,USA,3.7,8.27,0.62,82.72,8.89,-8.21,2.24,24.5,B-,No,No,Yes,Yes,0
+2015,Pioneer Natural Resources,PXD,Energy,USA,3.8,9.22,0.68,79.95,9.9,11.49,2.43,24.6,C,No,No,Yes,No,0
+2016,Pioneer Natural Resources,PXD,Energy,USA,4.0,9.36,0.8,93.24,10.16,1.52,2.34,28.6,C,Yes,No,Yes,No,0
+2017,Pioneer Natural Resources,PXD,Energy,USA,3.8,9.7,0.81,95.07,10.51,3.63,2.55,26.0,C,Yes,Yes,Yes,No,0
+2018,Pioneer Natural Resources,PXD,Energy,USA,4.5,9.33,0.74,90.77,10.07,-3.81,2.07,28.6,B,Yes,No,No,No,0
+2019,Pioneer Natural Resources,PXD,Energy,USA,4.0,9.78,0.78,103.97,10.56,4.82,2.45,27.2,B,Yes,No,Yes,No,0
+2020,Pioneer Natural Resources,PXD,Energy,USA,4.4,9.87,0.8,93.8,10.67,0.92,2.24,32.9,B,Yes,Yes,No,No,0
+2021,Pioneer Natural Resources,PXD,Energy,USA,4.3,9.65,0.73,93.21,10.38,-2.23,2.24,32.0,A-,Yes,Yes,Yes,Yes,0
+2022,Pioneer Natural Resources,PXD,Energy,USA,4.7,9.58,0.78,89.14,10.36,-0.73,2.04,31.2,B,Yes,No,Yes,Yes,0
+2023,Pioneer Natural Resources,PXD,Energy,USA,5.2,9.66,0.81,108.36,10.47,0.84,1.86,35.0,B,Yes,Yes,Yes,Yes,0
+2024,Pioneer Natural Resources,PXD,Energy,USA,5.3,9.07,0.75,91.57,9.82,-6.11,1.71,30.1,B,Yes,Yes,Yes,Yes,0
+2010,Duke Energy,DUK,Utilities,USA,13.0,105.13,4.38,42.14,109.51,,8.09,45.5,C,No,No,Yes,No,0
+2011,Duke Energy,DUK,Utilities,USA,13.1,99.92,3.95,40.42,103.87,-4.96,7.63,46.8,C,No,No,No,No,0
+2012,Duke Energy,DUK,Utilities,USA,15.8,98.15,4.25,46.38,102.4,-1.77,6.21,44.3,B-,No,No,Yes,No,0
+2013,Duke Energy,DUK,Utilities,USA,15.4,92.43,3.28,42.81,95.71,-5.83,6.0,47.9,B,No,No,Yes,Yes,0
+2014,Duke Energy,DUK,Utilities,USA,16.0,93.16,3.89,37.3,97.05,0.79,5.82,47.3,B,No,No,Yes,No,0
+2015,Duke Energy,DUK,Utilities,USA,14.1,88.17,3.69,44.11,91.86,-5.36,6.25,51.8,B,No,No,Yes,No,0
+2016,Duke Energy,DUK,Utilities,USA,16.8,79.53,3.37,36.31,82.9,-9.8,4.73,55.2,B-,Yes,No,Yes,No,0
+2017,Duke Energy,DUK,Utilities,USA,15.8,82.41,3.54,37.36,85.95,3.62,5.22,59.5,B,Yes,No,Yes,Yes,1
+2018,Duke Energy,DUK,Utilities,USA,17.1,73.6,2.89,32.83,76.49,-10.69,4.3,54.0,A-,Yes,Yes,No,No,0
+2019,Duke Energy,DUK,Utilities,USA,16.8,78.87,2.98,37.97,81.85,7.16,4.69,56.8,A-,Yes,Yes,Yes,Yes,1
+2020,Duke Energy,DUK,Utilities,USA,16.6,75.42,3.37,36.29,78.79,-4.37,4.54,58.8,B,Yes,No,No,Yes,0
+2021,Duke Energy,DUK,Utilities,USA,17.8,71.77,2.83,29.76,74.6,-4.84,4.03,59.9,A-,Yes,No,Yes,No,0
+2022,Duke Energy,DUK,Utilities,USA,18.1,61.52,2.46,29.92,63.98,-14.28,3.4,61.6,A-,Yes,Yes,No,Yes,0
+2023,Duke Energy,DUK,Utilities,USA,17.7,64.55,2.74,28.15,67.29,4.93,3.65,59.2,A-,Yes,No,Yes,Yes,1
+2024,Duke Energy,DUK,Utilities,USA,18.5,63.83,2.62,30.7,66.45,-1.12,3.45,62.2,A-,Yes,No,Yes,Yes,0
+2010,NextEra Energy,NEE,Utilities,USA,14.8,61.47,2.39,29.61,63.86,,4.15,63.9,C,No,No,Yes,Yes,0
+2011,NextEra Energy,NEE,Utilities,USA,16.1,55.95,2.39,27.16,58.34,-8.98,3.48,62.0,B-,No,No,Yes,No,0
+2012,NextEra Energy,NEE,Utilities,USA,15.9,54.93,2.31,24.16,57.24,-1.82,3.45,63.5,B-,No,No,Yes,No,0
+2013,NextEra Energy,NEE,Utilities,USA,17.3,51.41,2.16,27.89,53.57,-6.41,2.97,67.2,B,No,No,Yes,No,0
+2014,NextEra Energy,NEE,Utilities,USA,18.3,51.02,1.91,21.7,52.93,-0.76,2.79,67.7,B,No,No,No,No,0
+2015,NextEra Energy,NEE,Utilities,USA,19.3,43.77,1.82,18.91,45.59,-14.21,2.27,70.3,B,No,No,No,No,0
+2016,NextEra Energy,NEE,Utilities,USA,19.7,40.84,1.47,17.67,42.31,-6.69,2.07,77.3,B-,Yes,No,Yes,Yes,0
+2017,NextEra Energy,NEE,Utilities,USA,22.9,43.27,1.71,17.37,44.98,5.95,1.89,78.1,B,Yes,No,Yes,Yes,1
+2018,NextEra Energy,NEE,Utilities,USA,23.2,38.29,1.44,16.37,39.73,-11.51,1.65,78.4,B,Yes,No,Yes,Yes,0
+2019,NextEra Energy,NEE,Utilities,USA,25.2,34.92,1.41,13.92,36.33,-8.8,1.39,79.3,B,Yes,Yes,No,Yes,0
+2020,NextEra Energy,NEE,Utilities,USA,26.7,35.68,1.49,17.45,37.17,2.18,1.34,81.6,A-,Yes,No,Yes,Yes,1
+2021,NextEra Energy,NEE,Utilities,USA,25.5,32.51,1.25,14.66,33.76,-8.88,1.27,84.9,A-,Yes,No,Yes,Yes,0
+2022,NextEra Energy,NEE,Utilities,USA,27.7,31.23,1.17,13.09,32.4,-3.94,1.13,89.2,A-,Yes,Yes,Yes,Yes,0
+2023,NextEra Energy,NEE,Utilities,USA,30.6,30.09,1.3,12.42,31.39,-3.65,0.98,89.3,A-,Yes,Yes,Yes,Yes,0
+2024,NextEra Energy,NEE,Utilities,USA,32.3,28.61,1.12,12.98,29.73,-4.92,0.89,90.2,A-,Yes,Yes,Yes,No,0
+2010,Southern Company,SO,Utilities,USA,16.4,98.85,3.98,44.69,102.83,,6.03,45.6,C,No,No,Yes,No,0
+2011,Southern Company,SO,Utilities,USA,17.4,99.57,4.08,41.74,103.65,0.73,5.72,46.6,B-,No,No,Yes,No,0
+2012,Southern Company,SO,Utilities,USA,16.9,88.69,3.61,41.31,92.3,-10.93,5.25,51.7,B-,No,No,Yes,Yes,0
+2013,Southern Company,SO,Utilities,USA,18.6,88.8,3.59,42.06,92.39,0.12,4.77,50.0,B,No,No,No,No,0
+2014,Southern Company,SO,Utilities,USA,18.0,85.56,3.34,43.76,88.9,-3.65,4.75,55.9,B,No,No,No,No,0
+2015,Southern Company,SO,Utilities,USA,18.5,78.41,2.89,35.53,81.3,-8.36,4.24,53.6,B,No,No,No,Yes,0
+2016,Southern Company,SO,Utilities,USA,19.0,83.62,3.29,42.82,86.91,6.64,4.4,52.2,B,Yes,No,Yes,Yes,1
+2017,Southern Company,SO,Utilities,USA,18.8,73.29,2.89,37.9,76.18,-12.35,3.9,55.9,B,Yes,No,No,Yes,0
+2018,Southern Company,SO,Utilities,USA,19.6,77.92,2.96,42.13,80.88,6.32,3.98,55.7,A-,Yes,No,Yes,Yes,1
+2019,Southern Company,SO,Utilities,USA,19.6,77.77,3.21,37.42,80.98,-0.19,3.97,58.8,A-,Yes,Yes,Yes,No,0
+2020,Southern Company,SO,Utilities,USA,20.3,69.4,2.49,33.84,71.89,-10.76,3.42,57.5,A-,Yes,Yes,Yes,No,0
+2021,Southern Company,SO,Utilities,USA,20.6,69.7,2.88,31.3,72.58,0.43,3.38,58.1,A-,Yes,Yes,Yes,No,0
+2022,Southern Company,SO,Utilities,USA,20.7,70.35,2.98,29.55,73.33,0.93,3.4,60.9,A-,Yes,No,Yes,Yes,0
+2023,Southern Company,SO,Utilities,USA,20.5,64.13,2.49,27.22,66.62,-8.84,3.13,60.0,A-,Yes,No,Yes,Yes,0
+2024,Southern Company,SO,Utilities,USA,21.7,55.81,2.17,29.78,57.98,-12.97,2.57,64.1,A-,Yes,Yes,Yes,Yes,0
+2010,Dominion Energy,D,Utilities,USA,15.2,58.22,2.38,26.38,60.6,,3.83,45.7,C,No,No,No,No,0
+2011,Dominion Energy,D,Utilities,USA,16.2,52.02,2.22,24.4,54.24,-10.65,3.21,47.3,B-,No,No,No,Yes,0
+2012,Dominion Energy,D,Utilities,USA,14.6,50.51,2.13,23.73,52.64,-2.9,3.46,51.2,B-,No,No,Yes,No,0
+2013,Dominion Energy,D,Utilities,USA,15.2,45.68,1.8,20.37,47.48,-9.56,3.01,54.0,B,No,No,Yes,No,0
+2014,Dominion Energy,D,Utilities,USA,15.2,49.6,1.94,21.99,51.54,8.58,3.26,53.3,B,No,No,No,Yes,1
+2015,Dominion Energy,D,Utilities,USA,15.6,44.94,1.8,21.01,46.74,-9.4,2.88,52.1,B,No,No,Yes,Yes,0
+2016,Dominion Energy,D,Utilities,USA,16.1,44.09,1.62,21.11,45.71,-1.89,2.74,56.0,B-,Yes,No,No,Yes,0
+2017,Dominion Energy,D,Utilities,USA,15.8,40.81,1.65,19.1,42.46,-7.44,2.58,56.2,B,Yes,No,Yes,No,0
+2018,Dominion Energy,D,Utilities,USA,16.5,40.52,1.75,16.79,42.27,-0.71,2.46,57.8,A-,Yes,No,Yes,No,0
+2019,Dominion Energy,D,Utilities,USA,16.6,38.96,1.52,16.52,40.48,-3.85,2.35,58.1,A-,Yes,No,Yes,Yes,0
+2020,Dominion Energy,D,Utilities,USA,17.7,37.64,1.54,17.25,39.18,-3.39,2.13,62.8,A-,Yes,No,Yes,No,0
+2021,Dominion Energy,D,Utilities,USA,17.4,36.09,1.37,16.17,37.46,-4.12,2.07,62.2,A-,Yes,Yes,No,Yes,0
+2022,Dominion Energy,D,Utilities,USA,17.9,37.18,1.48,17.4,38.66,3.02,2.08,64.9,A-,Yes,No,Yes,Yes,1
+2023,Dominion Energy,D,Utilities,USA,17.5,33.1,1.27,15.19,34.37,-10.97,1.89,61.8,A-,Yes,Yes,Yes,No,0
+2024,Dominion Energy,D,Utilities,USA,17.0,33.11,1.36,13.87,34.47,0.03,1.95,62.7,A-,Yes,No,Yes,Yes,0
+2010,Enel,ENEL,Utilities,ITA,73.9,122.06,4.65,59.64,126.71,,1.65,69.3,C,No,No,Yes,No,0
+2011,Enel,ENEL,Utilities,ITA,73.6,118.15,4.78,52.41,122.93,-3.2,1.61,69.2,B,No,No,Yes,No,1
+2012,Enel,ENEL,Utilities,ITA,72.3,100.5,3.97,47.3,104.47,-14.94,1.39,75.9,B-,No,No,Yes,No,1
+2013,Enel,ENEL,Utilities,ITA,80.1,99.77,4.09,52.39,103.86,-0.73,1.25,73.9,B,No,No,No,Yes,1
+2014,Enel,ENEL,Utilities,ITA,86.1,97.81,3.43,55.1,101.24,-1.96,1.14,77.5,B,No,No,No,No,1
+2015,Enel,ENEL,Utilities,ITA,82.3,95.66,3.87,42.62,99.53,-2.2,1.16,74.4,B,No,No,Yes,Yes,1
+2016,Enel,ENEL,Utilities,ITA,91.6,85.78,3.51,39.34,89.29,-10.33,0.94,85.7,B,Yes,No,Yes,No,1
+2017,Enel,ENEL,Utilities,ITA,94.1,78.88,3.44,33.06,82.32,-8.04,0.84,80.1,B,Yes,No,Yes,Yes,0
+2018,Enel,ENEL,Utilities,ITA,91.0,76.22,2.6,33.29,78.82,-3.37,0.84,88.6,A-,Yes,No,Yes,Yes,0
+2019,Enel,ENEL,Utilities,ITA,86.1,69.09,3.15,29.17,72.24,-9.35,0.8,91.8,A-,Yes,Yes,Yes,No,0
+2020,Enel,ENEL,Utilities,ITA,98.3,65.8,2.52,31.04,68.32,-4.76,0.67,90.6,A-,Yes,Yes,Yes,Yes,0
+2021,Enel,ENEL,Utilities,ITA,100.4,61.32,2.6,27.61,63.92,-6.81,0.61,87.0,A,Yes,No,Yes,Yes,0
+2022,Enel,ENEL,Utilities,ITA,101.7,58.89,2.4,27.5,61.29,-3.96,0.58,92.3,A-,Yes,No,Yes,Yes,0
+2023,Enel,ENEL,Utilities,ITA,110.2,59.93,2.36,27.03,62.29,1.77,0.54,96.2,A,Yes,Yes,Yes,No,0
+2024,Enel,ENEL,Utilities,ITA,112.9,51.5,2.15,25.47,53.65,-14.07,0.46,99.4,A,Yes,Yes,Yes,Yes,0
+2010,E.ON,EOAN,Utilities,DEU,91.7,127.46,5.61,61.71,133.07,,1.39,61.9,C,No,No,Yes,No,0
+2011,E.ON,EOAN,Utilities,DEU,95.0,121.36,5.18,55.13,126.54,-4.79,1.28,65.1,B,No,No,Yes,No,1
+2012,E.ON,EOAN,Utilities,DEU,84.0,117.03,4.8,48.67,121.83,-3.57,1.39,63.1,B,No,No,Yes,No,1
+2013,E.ON,EOAN,Utilities,DEU,89.0,108.98,3.99,47.6,112.97,-6.88,1.22,66.1,B,No,No,Yes,No,1
+2014,E.ON,EOAN,Utilities,DEU,89.0,97.77,3.6,39.21,101.37,-10.29,1.1,72.4,B,No,No,Yes,No,1
+2015,E.ON,EOAN,Utilities,DEU,87.9,95.12,3.49,39.27,98.61,-2.71,1.08,69.0,B,No,No,Yes,No,1
+2016,E.ON,EOAN,Utilities,DEU,84.6,89.04,3.44,42.81,92.48,-6.39,1.05,73.5,B,Yes,No,Yes,No,1
+2017,E.ON,EOAN,Utilities,DEU,78.9,81.29,3.38,36.4,84.67,-8.7,1.03,74.3,B,Yes,No,No,Yes,1
+2018,E.ON,EOAN,Utilities,DEU,85.4,76.91,2.75,36.42,79.66,-5.39,0.9,78.1,A-,Yes,No,No,No,0
+2019,E.ON,EOAN,Utilities,DEU,84.9,73.78,3.08,31.77,76.86,-4.07,0.87,80.4,A-,Yes,No,No,No,0
+2020,E.ON,EOAN,Utilities,DEU,83.0,63.38,2.62,26.1,66.0,-14.1,0.76,79.2,A-,Yes,No,Yes,Yes,0
+2021,E.ON,EOAN,Utilities,DEU,86.5,63.57,2.31,28.11,65.88,0.3,0.73,83.4,A,Yes,No,Yes,No,0
+2022,E.ON,EOAN,Utilities,DEU,79.8,62.25,2.82,28.29,65.07,-2.08,0.78,81.8,A-,Yes,Yes,Yes,Yes,0
+2023,E.ON,EOAN,Utilities,DEU,76.2,55.81,2.38,23.46,58.19,-10.35,0.73,85.3,A,Yes,Yes,Yes,Yes,0
+2024,E.ON,EOAN,Utilities,DEU,82.5,52.91,2.3,23.61,55.21,-5.2,0.64,86.8,A-,Yes,No,Yes,No,0
+2010,American Electric Power,AEP,Utilities,USA,14.1,106.46,3.93,46.9,110.39,,7.55,45.5,D,No,No,No,No,0
+2011,American Electric Power,AEP,Utilities,USA,16.0,105.63,3.79,46.09,109.42,-0.78,6.6,43.6,C,No,No,Yes,No,0
+2012,American Electric Power,AEP,Utilities,USA,16.3,104.01,3.77,49.11,107.78,-1.53,6.38,46.2,C,No,No,Yes,No,0
+2013,American Electric Power,AEP,Utilities,USA,14.4,99.01,3.49,45.87,102.5,-4.81,6.88,45.5,B-,No,No,Yes,No,0
+2014,American Electric Power,AEP,Utilities,USA,16.4,95.37,3.93,39.17,99.3,-3.68,5.82,51.0,B-,No,No,Yes,Yes,0
+2015,American Electric Power,AEP,Utilities,USA,16.7,87.85,3.46,44.83,91.31,-7.89,5.26,53.5,B-,No,No,No,No,0
+2016,American Electric Power,AEP,Utilities,USA,16.5,88.77,3.58,39.57,92.35,1.05,5.38,50.1,B-,Yes,No,Yes,No,0
+2017,American Electric Power,AEP,Utilities,USA,16.9,88.79,3.44,38.93,92.23,0.02,5.25,51.6,B-,Yes,No,Yes,No,0
+2018,American Electric Power,AEP,Utilities,USA,16.6,82.81,3.76,39.9,86.57,-6.73,4.99,54.8,B,Yes,No,Yes,No,0
+2019,American Electric Power,AEP,Utilities,USA,18.2,81.65,3.21,36.54,84.86,-1.4,4.49,55.6,B,Yes,No,Yes,Yes,0
+2020,American Electric Power,AEP,Utilities,USA,16.6,72.03,2.77,30.4,74.8,-11.78,4.34,56.7,B,Yes,Yes,Yes,Yes,0
+2021,American Electric Power,AEP,Utilities,USA,18.0,74.68,2.97,36.87,77.65,3.68,4.15,61.3,A-,Yes,No,Yes,Yes,1
+2022,American Electric Power,AEP,Utilities,USA,18.2,70.13,2.59,32.21,72.72,-6.09,3.85,56.4,A-,Yes,Yes,Yes,Yes,0
+2023,American Electric Power,AEP,Utilities,USA,17.8,65.09,2.53,33.37,67.62,-7.19,3.66,63.9,A-,Yes,No,Yes,Yes,0
+2024,American Electric Power,AEP,Utilities,USA,18.1,63.63,2.5,29.21,66.13,-2.24,3.52,58.0,A-,Yes,Yes,Yes,Yes,0
+2010,Xcel Energy,XEL,Utilities,USA,10.5,50.87,2.1,22.51,52.97,,4.84,56.3,C,No,No,No,No,0
+2011,Xcel Energy,XEL,Utilities,USA,11.1,46.85,1.86,21.81,48.71,-7.9,4.22,56.3,B-,No,No,Yes,No,0
+2012,Xcel Energy,XEL,Utilities,USA,10.8,44.15,1.72,18.6,45.87,-5.76,4.09,58.2,B-,No,No,No,No,0
+2013,Xcel Energy,XEL,Utilities,USA,11.5,42.5,1.7,18.57,44.2,-3.74,3.7,62.7,B,No,No,Yes,No,0
+2014,Xcel Energy,XEL,Utilities,USA,11.2,37.54,1.45,17.46,38.99,-11.67,3.35,63.1,B,No,No,Yes,Yes,0
+2015,Xcel Energy,XEL,Utilities,USA,12.6,38.3,1.53,18.81,39.83,2.02,3.04,62.8,B,No,No,Yes,Yes,1
+2016,Xcel Energy,XEL,Utilities,USA,11.8,35.79,1.32,15.44,37.11,-6.55,3.03,66.3,B-,Yes,No,No,Yes,0
+2017,Xcel Energy,XEL,Utilities,USA,12.9,32.87,1.3,15.47,34.17,-8.16,2.55,69.6,B,Yes,No,Yes,No,0
+2018,Xcel Energy,XEL,Utilities,USA,14.0,35.13,1.47,16.63,36.6,6.88,2.51,67.7,B,Yes,Yes,Yes,Yes,1
+2019,Xcel Energy,XEL,Utilities,USA,13.5,34.26,1.31,13.96,35.57,-2.48,2.54,72.3,A-,Yes,No,Yes,Yes,0
+2020,Xcel Energy,XEL,Utilities,USA,13.5,30.24,1.32,12.68,31.56,-11.73,2.24,78.1,A-,Yes,No,Yes,No,0
+2021,Xcel Energy,XEL,Utilities,USA,13.7,28.61,0.99,12.41,29.6,-5.39,2.09,73.6,A-,Yes,Yes,Yes,Yes,0
+2022,Xcel Energy,XEL,Utilities,USA,13.6,27.32,1.05,13.2,28.37,-4.51,2.01,75.3,A-,Yes,Yes,Yes,Yes,0
+2023,Xcel Energy,XEL,Utilities,USA,14.3,26.4,1.02,11.88,27.42,-3.37,1.85,78.1,A-,Yes,No,Yes,No,0
+2024,Xcel Energy,XEL,Utilities,USA,14.6,26.32,1.12,10.67,27.44,-0.3,1.8,79.6,A-,Yes,Yes,Yes,No,0
+2010,RWE,RWE,Utilities,DEU,56.0,149.08,5.94,67.02,155.02,,2.66,38.8,D,No,No,No,No,0
+2011,RWE,RWE,Utilities,DEU,54.0,128.77,5.4,57.09,134.17,-13.62,2.38,42.2,C,No,No,Yes,No,0
+2012,RWE,RWE,Utilities,DEU,51.0,130.26,5.49,57.94,135.75,1.16,2.55,42.0,C,No,No,Yes,No,0
+2013,RWE,RWE,Utilities,DEU,52.1,125.12,4.92,59.19,130.04,-3.95,2.4,43.2,B-,No,No,Yes,No,0
+2014,RWE,RWE,Utilities,DEU,50.0,114.86,5.05,37.99,119.91,-8.2,2.3,46.5,B-,No,No,No,No,0
+2015,RWE,RWE,Utilities,DEU,52.8,95.04,3.58,49.64,98.62,-17.26,1.8,44.8,B-,No,No,Yes,Yes,0
+2016,RWE,RWE,Utilities,DEU,50.1,100.63,3.93,36.5,104.56,5.88,2.01,49.5,B-,Yes,No,Yes,Yes,0
+2017,RWE,RWE,Utilities,DEU,53.5,99.88,3.63,43.63,103.51,-0.75,1.87,48.0,B-,Yes,No,Yes,Yes,0
+2018,RWE,RWE,Utilities,DEU,51.2,81.49,3.17,36.99,84.66,-18.41,1.59,47.8,B,Yes,No,Yes,Yes,0
+2019,RWE,RWE,Utilities,DEU,52.0,82.8,3.72,40.27,86.52,1.61,1.59,53.7,B,Yes,Yes,Yes,Yes,0
+2020,RWE,RWE,Utilities,DEU,47.5,70.36,3.01,25.5,73.37,-15.02,1.48,54.9,B,Yes,Yes,Yes,Yes,0
+2021,RWE,RWE,Utilities,DEU,50.1,72.74,2.73,30.88,75.47,3.38,1.45,53.9,A-,Yes,No,Yes,Yes,1
+2022,RWE,RWE,Utilities,DEU,44.6,65.32,2.71,30.81,68.03,-10.2,1.46,58.8,A-,Yes,Yes,Yes,Yes,0
+2023,RWE,RWE,Utilities,DEU,49.9,55.87,2.37,27.26,58.24,-14.47,1.12,59.1,A-,Yes,Yes,Yes,Yes,0
+2024,RWE,RWE,Utilities,DEU,48.7,56.1,2.25,25.28,58.35,0.41,1.15,58.9,A-,Yes,Yes,Yes,Yes,0
+2010,Iberdrola,IBE,Utilities,ESP,31.4,43.08,1.57,17.54,44.65,,1.37,71.1,B-,No,No,Yes,Yes,0
+2011,Iberdrola,IBE,Utilities,ESP,30.6,40.47,1.57,15.54,42.04,-6.06,1.32,71.9,B,No,No,No,Yes,0
+2012,Iberdrola,IBE,Utilities,ESP,32.0,38.5,1.43,17.69,39.93,-4.87,1.2,78.0,B,No,No,Yes,Yes,0
+2013,Iberdrola,IBE,Utilities,ESP,34.0,38.51,1.5,19.55,40.01,0.03,1.13,77.0,A-,No,No,No,Yes,0
+2014,Iberdrola,IBE,Utilities,ESP,39.5,34.14,1.28,15.62,35.42,-11.35,0.86,82.8,A-,No,No,Yes,Yes,0
+2015,Iberdrola,IBE,Utilities,ESP,34.6,31.02,1.18,12.75,32.2,-9.14,0.9,81.6,A-,No,No,Yes,Yes,0
+2016,Iberdrola,IBE,Utilities,ESP,40.2,29.45,1.21,13.74,30.66,-5.06,0.73,87.1,A-,Yes,No,No,No,0
+2017,Iberdrola,IBE,Utilities,ESP,40.5,26.32,1.06,11.98,27.38,-10.63,0.65,88.3,A-,Yes,No,Yes,Yes,0
+2018,Iberdrola,IBE,Utilities,ESP,40.7,25.51,1.1,11.16,26.61,-3.08,0.63,90.2,A-,Yes,No,No,Yes,0
+2019,Iberdrola,IBE,Utilities,ESP,41.5,22.59,0.85,10.39,23.44,-11.45,0.54,91.9,A,Yes,No,Yes,Yes,0
+2020,Iberdrola,IBE,Utilities,ESP,44.5,21.76,0.82,9.77,22.58,-3.67,0.49,95.7,A,Yes,No,Yes,Yes,0
+2021,Iberdrola,IBE,Utilities,ESP,43.0,21.67,0.77,9.93,22.44,-0.41,0.5,95.4,A,Yes,No,Yes,No,0
+2022,Iberdrola,IBE,Utilities,ESP,48.6,19.32,0.77,8.4,20.09,-10.84,0.4,100,A,Yes,No,Yes,No,0
+2023,Iberdrola,IBE,Utilities,ESP,46.4,18.18,0.73,7.62,18.91,-5.9,0.39,100,A,Yes,No,Yes,Yes,0
+2024,Iberdrola,IBE,Utilities,ESP,48.7,17.48,0.64,8.44,18.12,-3.85,0.36,100,A,Yes,No,Yes,Yes,0
+2010,General Electric,GE,Industrials,USA,153.5,26.36,6.79,86.82,33.15,,0.17,46.5,C,No,No,Yes,Yes,0
+2011,General Electric,GE,Industrials,USA,150.9,27.89,7.37,85.82,35.26,5.8,0.18,49.7,B-,No,No,No,No,0
+2012,General Electric,GE,Industrials,USA,139.3,28.49,6.86,86.18,35.35,2.15,0.2,51.1,B-,No,No,Yes,Yes,1
+2013,General Electric,GE,Industrials,USA,151.8,27.43,6.86,87.94,34.29,-3.72,0.18,57.0,B,No,No,Yes,Yes,0
+2014,General Electric,GE,Industrials,USA,135.9,24.93,6.92,84.86,31.85,-9.11,0.18,54.0,B,No,No,Yes,Yes,0
+2015,General Electric,GE,Industrials,USA,140.2,24.53,5.89,93.13,30.42,-1.6,0.17,48.8,B,No,No,No,No,0
+2016,General Electric,GE,Industrials,USA,134.8,25.14,6.18,72.15,31.32,2.49,0.19,55.6,B-,Yes,No,No,No,1
+2017,General Electric,GE,Industrials,USA,130.4,23.58,6.56,76.15,30.14,-6.21,0.18,56.6,B-,Yes,No,No,Yes,0
+2018,General Electric,GE,Industrials,USA,127.8,22.1,4.86,66.94,26.96,-6.28,0.17,56.4,A-,Yes,No,No,No,0
+2019,General Electric,GE,Industrials,USA,123.9,20.55,4.74,59.9,25.29,-7.01,0.17,57.7,B,Yes,No,Yes,No,0
+2020,General Electric,GE,Industrials,USA,122.1,21.69,5.65,67.77,27.34,5.55,0.18,59.7,A-,Yes,No,Yes,Yes,1
+2021,General Electric,GE,Industrials,USA,116.6,20.34,5.29,65.35,25.63,-6.22,0.17,59.2,A-,Yes,Yes,Yes,Yes,0
+2022,General Electric,GE,Industrials,USA,115.0,20.5,4.84,68.19,25.34,0.79,0.18,61.7,A-,Yes,No,Yes,Yes,0
+2023,General Electric,GE,Industrials,USA,118.1,20.62,5.49,73.7,26.11,0.59,0.17,64.4,A-,Yes,Yes,Yes,Yes,0
+2024,General Electric,GE,Industrials,USA,108.6,19.63,4.81,65.05,24.44,-4.8,0.18,61.9,A-,Yes,No,Yes,No,0
+2010,Honeywell,HON,Industrials,USA,32.5,7.75,1.99,27.27,9.74,,0.24,54.0,C,No,No,Yes,No,0
+2011,Honeywell,HON,Industrials,USA,36.1,7.65,1.87,26.24,9.52,-1.29,0.21,54.9,B-,No,No,Yes,No,0
+2012,Honeywell,HON,Industrials,USA,32.3,7.9,1.92,24.01,9.82,3.27,0.24,59.2,B-,No,No,No,No,1
+2013,Honeywell,HON,Industrials,USA,36.3,7.73,1.87,25.78,9.6,-2.15,0.21,59.8,B,No,No,Yes,Yes,0
+2014,Honeywell,HON,Industrials,USA,36.5,7.16,1.66,19.76,8.82,-7.37,0.2,62.0,B,No,No,No,Yes,0
+2015,Honeywell,HON,Industrials,USA,37.7,6.15,1.57,18.46,7.72,-14.11,0.16,57.0,B,No,No,Yes,No,0
+2016,Honeywell,HON,Industrials,USA,36.3,6.92,1.69,23.67,8.61,12.52,0.19,62.5,B,Yes,No,No,Yes,1
+2017,Honeywell,HON,Industrials,USA,38.3,6.45,1.61,24.17,8.06,-6.79,0.17,64.5,B,Yes,No,Yes,Yes,0
+2018,Honeywell,HON,Industrials,USA,40.4,6.3,1.57,18.56,7.87,-2.33,0.16,67.3,B,Yes,No,Yes,No,0
+2019,Honeywell,HON,Industrials,USA,43.7,5.7,1.51,18.74,7.21,-9.52,0.13,65.8,A-,Yes,No,Yes,Yes,0
+2020,Honeywell,HON,Industrials,USA,43.8,5.68,1.39,15.89,7.07,-0.35,0.13,70.1,A-,Yes,No,Yes,Yes,0
+2021,Honeywell,HON,Industrials,USA,44.2,5.83,1.45,18.75,7.28,2.64,0.13,69.1,A-,Yes,No,Yes,Yes,1
+2022,Honeywell,HON,Industrials,USA,46.5,5.61,1.49,18.29,7.1,-3.77,0.12,69.4,A-,Yes,No,Yes,No,0
+2023,Honeywell,HON,Industrials,USA,51.3,5.41,1.47,18.23,6.88,-3.57,0.11,74.1,A-,Yes,Yes,Yes,Yes,0
+2024,Honeywell,HON,Industrials,USA,47.3,5.15,1.31,15.02,6.46,-4.81,0.11,73.5,A-,Yes,No,Yes,Yes,0
+2010,Caterpillar,CAT,Industrials,USA,42.9,5.38,1.21,17.92,6.59,,0.13,41.5,D,No,No,Yes,No,0
+2011,Caterpillar,CAT,Industrials,USA,42.5,5.36,1.25,17.29,6.61,-0.37,0.13,41.9,C,No,No,No,No,0
+2012,Caterpillar,CAT,Industrials,USA,45.9,5.42,1.37,17.04,6.79,1.12,0.12,39.7,C,No,No,Yes,No,0
+2013,Caterpillar,CAT,Industrials,USA,44.3,5.22,1.25,15.31,6.47,-3.69,0.12,42.3,B-,No,No,Yes,Yes,0
+2014,Caterpillar,CAT,Industrials,USA,46.4,5.17,1.26,17.17,6.43,-0.96,0.11,40.7,B-,No,No,Yes,No,0
+2015,Caterpillar,CAT,Industrials,USA,49.4,5.04,1.42,17.41,6.46,-2.51,0.1,44.7,B-,No,No,Yes,No,0
+2016,Caterpillar,CAT,Industrials,USA,50.9,4.84,1.08,15.45,5.92,-3.97,0.1,44.9,C,Yes,No,Yes,Yes,0
+2017,Caterpillar,CAT,Industrials,USA,51.8,4.92,1.2,15.18,6.12,1.65,0.09,42.2,B-,Yes,No,Yes,Yes,0
+2018,Caterpillar,CAT,Industrials,USA,53.4,4.7,1.21,16.34,5.91,-4.47,0.09,44.2,B,Yes,No,Yes,Yes,0
+2019,Caterpillar,CAT,Industrials,USA,54.9,4.81,1.22,12.59,6.03,2.34,0.09,51.2,B,Yes,No,No,Yes,1
+2020,Caterpillar,CAT,Industrials,USA,57.3,4.66,1.3,17.11,5.96,-3.12,0.08,46.4,B,Yes,No,Yes,Yes,0
+2021,Caterpillar,CAT,Industrials,USA,60.4,4.38,1.11,16.05,5.49,-6.01,0.07,49.0,A-,Yes,No,Yes,Yes,0
+2022,Caterpillar,CAT,Industrials,USA,57.1,4.31,1.05,13.62,5.36,-1.6,0.08,49.4,A-,Yes,No,Yes,Yes,0
+2023,Caterpillar,CAT,Industrials,USA,60.5,4.38,1.21,14.16,5.59,1.62,0.07,50.8,A-,Yes,Yes,Yes,Yes,0
+2024,Caterpillar,CAT,Industrials,USA,66.0,4.11,0.99,13.3,5.1,-6.16,0.06,49.8,A-,Yes,Yes,Yes,Yes,0
+2010,3M,MMM,Industrials,USA,26.6,3.24,0.76,10.02,4.0,,0.12,50.9,C,No,No,No,Yes,0
+2011,3M,MMM,Industrials,USA,28.0,3.05,0.72,9.36,3.77,-5.86,0.11,52.6,C,No,No,Yes,No,0
+2012,3M,MMM,Industrials,USA,27.5,3.01,0.77,10.34,3.78,-1.31,0.11,50.1,B-,No,No,Yes,No,0
+2013,3M,MMM,Industrials,USA,27.8,3.04,0.79,10.26,3.83,1.0,0.11,53.7,B,No,No,Yes,No,0
+2014,3M,MMM,Industrials,USA,28.3,2.84,0.7,8.9,3.54,-6.58,0.1,57.4,B,No,No,Yes,No,0
+2015,3M,MMM,Industrials,USA,28.4,2.66,0.6,9.87,3.26,-6.34,0.09,56.1,B,No,No,Yes,Yes,0
+2016,3M,MMM,Industrials,USA,29.2,2.64,0.57,8.85,3.21,-0.75,0.09,58.2,B,Yes,No,Yes,Yes,0
+2017,3M,MMM,Industrials,USA,27.1,2.75,0.68,9.17,3.43,4.17,0.1,62.0,B,Yes,No,Yes,Yes,1
+2018,3M,MMM,Industrials,USA,28.2,2.41,0.65,7.5,3.06,-12.36,0.09,59.0,A-,Yes,No,Yes,Yes,0
+2019,3M,MMM,Industrials,USA,30.7,2.55,0.57,7.79,3.12,5.81,0.08,59.9,A-,Yes,Yes,Yes,No,1
+2020,3M,MMM,Industrials,USA,29.0,2.41,0.57,8.87,2.98,-5.49,0.08,58.6,B,Yes,No,No,Yes,0
+2021,3M,MMM,Industrials,USA,27.9,2.4,0.61,7.75,3.01,-0.41,0.09,62.7,A-,Yes,No,Yes,Yes,0
+2022,3M,MMM,Industrials,USA,29.1,2.4,0.55,8.53,2.95,0.0,0.08,64.1,A-,Yes,No,Yes,No,0
+2023,3M,MMM,Industrials,USA,29.7,2.41,0.64,8.95,3.05,0.42,0.08,63.2,A-,Yes,No,Yes,Yes,0
+2024,3M,MMM,Industrials,USA,31.7,2.17,0.51,6.57,2.68,-9.96,0.07,63.5,A-,Yes,No,Yes,Yes,0
+2010,Siemens,SIE,Industrials,DEU,76.8,2.64,0.65,8.98,3.29,,0.03,70.6,C,No,No,Yes,No,0
+2011,Siemens,SIE,Industrials,DEU,81.5,2.62,0.59,8.71,3.21,-0.76,0.03,76.8,B,No,No,No,No,0
+2012,Siemens,SIE,Industrials,DEU,83.6,2.39,0.64,7.65,3.03,-8.78,0.03,80.0,B,No,No,Yes,No,0
+2013,Siemens,SIE,Industrials,DEU,77.9,2.08,0.44,6.56,2.52,-12.97,0.03,80.9,B,No,No,Yes,No,0
+2014,Siemens,SIE,Industrials,DEU,78.1,1.93,0.49,6.24,2.42,-7.21,0.02,81.3,B,No,No,Yes,Yes,0
+2015,Siemens,SIE,Industrials,DEU,80.0,1.8,0.46,5.53,2.26,-6.74,0.02,83.3,B,No,No,Yes,No,0
+2016,Siemens,SIE,Industrials,DEU,83.9,1.72,0.43,5.44,2.15,-4.44,0.02,88.8,B,Yes,No,Yes,No,0
+2017,Siemens,SIE,Industrials,DEU,86.7,1.47,0.36,4.23,1.83,-14.53,0.02,88.3,B,Yes,No,Yes,Yes,0
+2018,Siemens,SIE,Industrials,DEU,91.8,1.37,0.34,4.74,1.71,-6.8,0.01,91.6,A-,Yes,No,No,Yes,0
+2019,Siemens,SIE,Industrials,DEU,88.2,1.37,0.4,3.97,1.77,0.0,0.02,97.2,A-,Yes,No,Yes,No,0
+2020,Siemens,SIE,Industrials,DEU,81.2,1.22,0.33,3.68,1.55,-10.95,0.02,97.4,A-,Yes,No,Yes,Yes,0
+2021,Siemens,SIE,Industrials,DEU,91.3,1.1,0.29,3.53,1.39,-9.84,0.01,100,A,Yes,Yes,Yes,Yes,0
+2022,Siemens,SIE,Industrials,DEU,99.1,1.03,0.27,3.09,1.3,-6.36,0.01,100,A,Yes,No,Yes,Yes,0
+2023,Siemens,SIE,Industrials,DEU,95.5,0.89,0.23,2.68,1.12,-13.59,0.01,100,A,Yes,Yes,No,Yes,0
+2024,Siemens,SIE,Industrials,DEU,93.5,0.9,0.22,3.04,1.12,1.12,0.01,100,A,Yes,Yes,Yes,Yes,0
+2010,Emerson Electric,EMR,Industrials,USA,23.8,1.66,0.43,5.22,2.09,,0.07,40.9,D,No,No,Yes,Yes,0
+2011,Emerson Electric,EMR,Industrials,USA,24.0,1.66,0.4,4.59,2.06,0.0,0.07,43.4,C,No,No,No,No,0
+2012,Emerson Electric,EMR,Industrials,USA,24.1,1.63,0.46,5.24,2.09,-1.81,0.07,39.2,C,No,No,Yes,No,0
+2013,Emerson Electric,EMR,Industrials,USA,25.6,1.55,0.37,5.07,1.92,-4.91,0.06,41.6,B,No,No,Yes,Yes,0
+2014,Emerson Electric,EMR,Industrials,USA,24.9,1.53,0.38,5.09,1.91,-1.29,0.06,41.8,B-,No,No,Yes,No,0
+2015,Emerson Electric,EMR,Industrials,USA,25.8,1.46,0.37,4.46,1.83,-4.58,0.06,42.0,B-,No,No,Yes,No,0
+2016,Emerson Electric,EMR,Industrials,USA,25.3,1.38,0.38,4.32,1.76,-5.48,0.05,45.3,C,Yes,No,Yes,Yes,0
+2017,Emerson Electric,EMR,Industrials,USA,24.6,1.41,0.39,3.92,1.8,2.17,0.06,43.5,B-,Yes,No,Yes,No,0
+2018,Emerson Electric,EMR,Industrials,USA,26.8,1.42,0.36,4.05,1.78,0.71,0.05,47.5,B,Yes,No,Yes,Yes,0
+2019,Emerson Electric,EMR,Industrials,USA,27.4,1.2,0.29,3.63,1.49,-15.49,0.04,48.7,B,Yes,No,Yes,No,0
+2020,Emerson Electric,EMR,Industrials,USA,25.7,1.25,0.29,4.04,1.54,4.17,0.05,49.1,B,Yes,No,Yes,Yes,0
+2021,Emerson Electric,EMR,Industrials,USA,25.3,1.27,0.31,4.34,1.58,1.6,0.05,51.7,A-,Yes,Yes,Yes,No,0
+2022,Emerson Electric,EMR,Industrials,USA,26.8,1.22,0.27,3.61,1.49,-3.94,0.05,54.7,A-,Yes,Yes,Yes,Yes,0
+2023,Emerson Electric,EMR,Industrials,USA,28.6,1.19,0.31,4.26,1.5,-2.46,0.04,51.9,A-,Yes,No,Yes,Yes,0
+2024,Emerson Electric,EMR,Industrials,USA,28.8,1.17,0.28,3.45,1.45,-1.68,0.04,53.7,A-,Yes,No,Yes,Yes,0
+2010,Cummins,CMI,Industrials,USA,13.0,1.91,0.48,6.32,2.39,,0.15,48.7,C,No,No,No,No,0
+2011,Cummins,CMI,Industrials,USA,12.9,1.89,0.46,6.29,2.35,-1.05,0.15,49.6,B-,No,No,No,No,0
+2012,Cummins,CMI,Industrials,USA,14.0,1.89,0.46,5.31,2.35,0.0,0.14,54.4,B-,No,No,Yes,No,0
+2013,Cummins,CMI,Industrials,USA,15.0,1.95,0.48,4.97,2.43,3.17,0.13,54.9,B,No,No,Yes,Yes,1
+2014,Cummins,CMI,Industrials,USA,14.5,1.8,0.42,6.56,2.22,-7.69,0.12,54.7,B,No,No,Yes,Yes,0
+2015,Cummins,CMI,Industrials,USA,14.9,1.78,0.49,5.65,2.27,-1.11,0.12,54.8,B,No,No,No,Yes,0
+2016,Cummins,CMI,Industrials,USA,15.6,1.75,0.45,5.39,2.2,-1.69,0.11,53.8,B-,Yes,No,Yes,Yes,0
+2017,Cummins,CMI,Industrials,USA,14.2,1.72,0.44,5.4,2.16,-1.71,0.12,58.6,B,Yes,No,Yes,No,0
+2018,Cummins,CMI,Industrials,USA,17.1,1.67,0.43,5.05,2.1,-2.91,0.1,59.5,A-,Yes,No,Yes,No,0
+2019,Cummins,CMI,Industrials,USA,17.3,1.49,0.35,3.89,1.84,-10.78,0.09,60.3,B,Yes,Yes,Yes,Yes,0
+2020,Cummins,CMI,Industrials,USA,16.7,1.52,0.36,4.96,1.88,2.01,0.09,61.7,A-,Yes,Yes,Yes,Yes,1
+2021,Cummins,CMI,Industrials,USA,18.6,1.44,0.38,4.85,1.82,-5.26,0.08,64.8,A-,Yes,No,No,Yes,0
+2022,Cummins,CMI,Industrials,USA,19.9,1.57,0.42,5.43,1.99,9.03,0.08,66.5,A-,Yes,Yes,Yes,No,1
+2023,Cummins,CMI,Industrials,USA,19.8,1.4,0.31,4.82,1.71,-10.83,0.07,63.8,A-,Yes,Yes,No,Yes,0
+2024,Cummins,CMI,Industrials,USA,20.0,1.28,0.32,3.94,1.6,-8.57,0.06,65.7,A-,Yes,Yes,Yes,Yes,0
+2010,BASF,BAS,Industrials,DEU,66.2,22.02,4.84,74.47,26.86,,0.33,62.3,C,No,No,Yes,No,0
+2011,BASF,BAS,Industrials,DEU,61.5,20.75,5.21,71.56,25.96,-5.77,0.34,62.1,B-,No,No,Yes,No,0
+2012,BASF,BAS,Industrials,DEU,67.7,20.31,4.73,69.29,25.04,-2.12,0.3,63.0,B,No,No,Yes,Yes,0
+2013,BASF,BAS,Industrials,DEU,62.5,20.62,5.29,62.23,25.91,1.53,0.33,63.5,B,No,No,Yes,No,0
+2014,BASF,BAS,Industrials,DEU,68.1,20.15,5.39,66.96,25.54,-2.28,0.3,68.7,B,No,No,Yes,Yes,0
+2015,BASF,BAS,Industrials,DEU,71.8,20.84,4.78,58.93,25.62,3.42,0.29,68.8,B,No,No,No,Yes,1
+2016,BASF,BAS,Industrials,DEU,72.6,19.78,4.9,60.74,24.68,-5.09,0.27,70.2,B,Yes,No,Yes,Yes,0
+2017,BASF,BAS,Industrials,DEU,70.7,19.98,4.79,65.74,24.77,1.01,0.28,73.3,B,Yes,No,No,No,0
+2018,BASF,BAS,Industrials,DEU,77.1,17.46,4.3,57.82,21.76,-12.61,0.23,74.4,A-,Yes,No,No,No,0
+2019,BASF,BAS,Industrials,DEU,76.7,20.11,5.06,67.59,25.17,15.18,0.26,76.9,A-,Yes,No,Yes,Yes,1
+2020,BASF,BAS,Industrials,DEU,80.1,19.52,5.25,59.86,24.77,-2.93,0.24,76.3,A-,Yes,No,Yes,Yes,0
+2021,BASF,BAS,Industrials,DEU,75.8,19.24,4.96,62.0,24.2,-1.43,0.25,78.3,A-,Yes,No,Yes,Yes,0
+2022,BASF,BAS,Industrials,DEU,80.6,19.61,5.31,64.69,24.92,1.92,0.24,81.3,A-,Yes,No,Yes,No,0
+2023,BASF,BAS,Industrials,DEU,78.6,19.25,5.22,60.42,24.47,-1.84,0.24,80.2,A,Yes,Yes,Yes,Yes,0
+2024,BASF,BAS,Industrials,DEU,86.1,18.25,4.25,59.37,22.5,-5.19,0.21,81.7,A-,Yes,Yes,No,Yes,0
+2010,ArcelorMittal,MT,Industrials,LUX,82.6,179.1,43.89,631.72,222.99,,2.17,33.8,D,No,No,Yes,No,0
+2011,ArcelorMittal,MT,Industrials,LUX,81.1,178.97,45.44,557.31,224.41,-0.07,2.21,34.0,C,No,No,Yes,No,0
+2012,ArcelorMittal,MT,Industrials,LUX,78.6,162.72,38.22,500.87,200.94,-9.08,2.07,36.4,C,No,No,Yes,No,0
+2013,ArcelorMittal,MT,Industrials,LUX,80.6,173.32,44.57,510.73,217.89,6.51,2.15,40.0,B-,No,No,Yes,No,0
+2014,ArcelorMittal,MT,Industrials,LUX,77.0,167.95,45.68,582.18,213.63,-3.1,2.18,40.4,B-,No,No,Yes,No,0
+2015,ArcelorMittal,MT,Industrials,LUX,81.6,170.66,47.56,585.84,218.22,1.61,2.09,39.4,B-,No,No,Yes,No,0
+2016,ArcelorMittal,MT,Industrials,LUX,81.2,167.29,40.98,595.76,208.27,-1.97,2.06,40.5,B-,Yes,No,Yes,Yes,0
+2017,ArcelorMittal,MT,Industrials,LUX,86.5,163.42,42.65,519.31,206.07,-2.31,1.89,42.1,B-,Yes,No,Yes,Yes,0
+2018,ArcelorMittal,MT,Industrials,LUX,87.7,163.12,41.65,494.84,204.77,-0.18,1.86,40.4,B,Yes,No,No,No,0
+2019,ArcelorMittal,MT,Industrials,LUX,84.0,161.02,44.92,550.11,205.94,-1.29,1.92,42.4,B,Yes,No,Yes,No,0
+2020,ArcelorMittal,MT,Industrials,LUX,85.4,155.94,37.59,547.95,193.53,-3.15,1.83,44.2,B,Yes,No,No,Yes,0
+2021,ArcelorMittal,MT,Industrials,LUX,84.9,162.04,38.58,568.44,200.62,3.91,1.91,46.2,A-,Yes,No,Yes,Yes,0
+2022,ArcelorMittal,MT,Industrials,LUX,88.9,166.36,40.81,570.36,207.17,2.67,1.87,43.4,A-,Yes,Yes,Yes,Yes,0
+2023,ArcelorMittal,MT,Industrials,LUX,90.8,155.02,40.72,504.92,195.74,-6.82,1.71,46.5,A-,Yes,Yes,Yes,Yes,0
+2024,ArcelorMittal,MT,Industrials,LUX,89.7,157.6,38.25,481.7,195.85,1.66,1.76,44.5,A-,Yes,No,Yes,No,0
+2010,Holcim,HOLN,Industrials,CHE,25.8,131.19,31.8,411.34,162.99,,5.08,40.3,D,No,No,Yes,No,0
+2011,Holcim,HOLN,Industrials,CHE,28.7,130.42,30.82,426.73,161.24,-0.59,4.54,41.4,B-,No,No,No,Yes,0
+2012,Holcim,HOLN,Industrials,CHE,28.4,119.77,28.76,381.77,148.53,-8.17,4.22,46.7,C,No,No,Yes,No,0
+2013,Holcim,HOLN,Industrials,CHE,29.2,114.41,32.4,374.94,146.81,-4.48,3.92,45.0,B-,No,No,No,Yes,0
+2014,Holcim,HOLN,Industrials,CHE,30.4,114.85,28.09,361.02,142.94,0.38,3.78,48.6,B,No,No,Yes,No,0
+2015,Holcim,HOLN,Industrials,CHE,28.6,112.48,29.22,347.99,141.7,-2.06,3.93,48.3,B-,No,No,Yes,No,0
+2016,Holcim,HOLN,Industrials,CHE,30.9,117.54,29.51,376.48,147.05,4.5,3.8,53.6,C,Yes,No,Yes,Yes,1
+2017,Holcim,HOLN,Industrials,CHE,31.7,115.68,29.87,381.17,145.55,-1.58,3.65,49.6,B-,Yes,No,Yes,No,0
+2018,Holcim,HOLN,Industrials,CHE,31.2,104.94,26.52,343.77,131.46,-9.28,3.36,54.5,B,Yes,No,Yes,Yes,0
+2019,Holcim,HOLN,Industrials,CHE,33.5,101.21,25.08,328.57,126.29,-3.55,3.02,51.9,B,Yes,No,Yes,Yes,0
+2020,Holcim,HOLN,Industrials,CHE,32.4,101.1,27.1,326.05,128.2,-0.11,3.12,54.6,B,Yes,No,No,Yes,0
+2021,Holcim,HOLN,Industrials,CHE,33.4,99.25,24.52,277.09,123.77,-1.83,2.97,55.8,A-,Yes,No,Yes,No,0
+2022,Holcim,HOLN,Industrials,CHE,34.7,105.24,26.43,312.21,131.67,6.04,3.03,54.7,A-,Yes,No,Yes,Yes,1
+2023,Holcim,HOLN,Industrials,CHE,33.0,100.58,24.55,328.55,125.13,-4.43,3.05,57.2,A-,Yes,No,Yes,No,0
+2024,Holcim,HOLN,Industrials,CHE,36.8,98.75,25.57,307.75,124.32,-1.82,2.68,56.7,A-,Yes,No,Yes,Yes,0
